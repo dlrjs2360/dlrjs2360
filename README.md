@@ -19,9 +19,9 @@
 <br>
 
 <div>
-
-![dlrjs2360's github stats](https://github-readme-stats.vercel.app/api?username=dlrjs2360&show_icons=true)
 ![dlrjs2360's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrjs2360&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+![dlrjs2360's github stats](https://github-readme-stats.vercel.app/api?username=dlrjs2360&show_icons=true)
+
 
 </div>
 
