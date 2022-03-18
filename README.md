@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=HEE%20GEON&fontSize=80)
 
-![snake gif](https://github.com/[dlrjs2360]/[dlrjs2360]/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/[dlrjs2360]/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
