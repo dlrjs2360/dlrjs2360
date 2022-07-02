@@ -15,7 +15,7 @@
 
 <h3 align="center">※ Tech Stack ※</h3>
 
-![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
+![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,React)
 
 ![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Javascript,React,Redux,jQuery,Node.js,Express.js,Socket.io,Bootstrap,MongoDB,Python)
 
