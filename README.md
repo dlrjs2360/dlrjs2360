@@ -9,9 +9,6 @@
 
 <br>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrjs2360)](https://solved.ac/dlrjs2360/)
-  
-<br>
 
 <h3 align="center">※ Tech Stack ※</h3>
 
