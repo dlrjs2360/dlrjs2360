@@ -29,6 +29,17 @@
 
 <br>
 
+<h1>📑 &nbsp Algorithm.log() </h1>
+<a>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrjs2360)](https://solved.ac/dlrjs2360)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlrjs2360&theme=dark)
+
+  </a>
+
+
+<br>
+
 <h1>💻 &nbsp GitHub.log() </h1>
 
 
@@ -47,13 +58,7 @@
 <br>
 
 
-<h1>📑 &nbsp Algorithm.log() </h1>
-<a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrjs2360)](https://solved.ac/dlrjs2360)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlrjs2360&theme=dark)
-
-  </a>
   
 </div>
 
