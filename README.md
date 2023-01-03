@@ -1,6 +1,5 @@
 <div align = 'center'>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=HEE%20GEON&fontSize=80)
 
 
 <br>
@@ -9,21 +8,10 @@
 
 <br>
   
-
-<h3 align="center">※ Tech Stack ※</h3>
-
-![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,React)
-
-![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=Javascript,React,Redux,jQuery,Node.js,Express.js,Socket.io,Bootstrap,MongoDB,Python)
+  
+[![dlrjs2360's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlrjs2360&theme=merko)](https://github.com/dlrjs2360/github-readme-activity-graph)
 
 <br>
-
-<div>
-  
-![dlrjs2360's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dlrjs2360&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
-  
-![dlrjs2360's github stats](https://github-readme-stats.vercel.app/api?username=dlrjs2360&show_icons=true)
-
 
 </div>
 
