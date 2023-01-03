@@ -11,7 +11,7 @@
 <div align = 'center'>
   
   
-<h1>📚  &nbsp Skills.log </h1>
+<h1>📚  &nbsp Skills.log() </h1>
   
 <p align="center">
   <h3>💡Using for main</h3>
@@ -29,7 +29,7 @@
 
 <br>
 
-<h1>💻 &nbsp GitHub.log </h1>
+<h1>💻 &nbsp GitHub.log() </h1>
 
 
 <br>
@@ -47,7 +47,7 @@
 <br>
 
 
-<h1>📑 &nbsp Algorithm.log </h1>
+<h1>📑 &nbsp Algorithm.log() </h1>
 <a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrjs2360)](https://solved.ac/dlrjs2360)
