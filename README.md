@@ -11,7 +11,7 @@
 <div align = 'center'>
   
   
-<h1>📚  &nbsp Skills.log() </h1>
+<h1>📚  &nbsp Skills </h1>
   
 <p align="center">
   <h3>💡Using for main</h3>
@@ -29,7 +29,7 @@
 
 <br>
 
-<h1>📑 &nbsp Algorithm.log() </h1>
+<h1>📑 &nbsp Algorithm </h1>
 <a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrjs2360)](https://solved.ac/dlrjs2360)
@@ -40,7 +40,7 @@
 
 <br>
 
-<h1>💻 &nbsp GitHub.log() </h1>
+<h1>💻 &nbsp GitHub </h1>
 
 
 
@@ -56,7 +56,7 @@
 
 <a>
   
-[![dlrjs2360's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlrjs2360&theme=onedark)](https://github.com/dlrjs2360/github-readme-stats)
+<!--[![dlrjs2360's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlrjs2360&theme=onedark)](https://github.com/dlrjs2360/github-readme-stats)-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dlrjs2360&theme=dark)](https://git.io/streak-stats)
   
 </a>
