@@ -43,7 +43,16 @@
 <h1>💻 &nbsp GitHub.log() </h1>
 
 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <br>
+
+  <!-- github graph -->
+[![dlrjs2360's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlrjs2360&theme=react-dark)](https://github.com/dlrjs2360/github-readme-activity-graph)
+
+<br>
+
 
 <a>
   
@@ -51,14 +60,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dlrjs2360&theme=dark)](https://git.io/streak-stats)
   
 </a>
-
-  <!-- github graph -->
-[![dlrjs2360's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlrjs2360&theme=react-dark)](https://github.com/dlrjs2360/github-readme-activity-graph)
-
-<br>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
   
 </div>
 
