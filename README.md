@@ -60,7 +60,7 @@
   
 <!--[![dlrjs2360's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlrjs2360&theme=onedark)](https://github.com/dlrjs2360/github-readme-stats)-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dlrjs2360&theme=dark)](https://git.io/streak-stats)
-  
+  <a href="https://opgc.me/#/users/dlrjs2360" target="_blank"><img src="https://api.opgc.me/githubs/users/dlrjs2360/tag/?theme=basic" /></a>
 </a>
   
 </div>
