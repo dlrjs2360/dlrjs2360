@@ -34,7 +34,7 @@
 <a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrjs2360)](https://solved.ac/dlrjs2360)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlrjs2360&theme=white)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlrjs2360&theme=dark)
 
   </a>
 
@@ -43,7 +43,7 @@
 
 <h1>💻 &nbsp GitHub </h1>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 
 
@@ -51,7 +51,7 @@
 <br>
 
   <!-- github graph -->
-[![dlrjs2360's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlrjs2360)](https://github.com/dlrjs2360/github-readme-activity-graph)
+[![dlrjs2360's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlrjs2360&theme=tokyo-night)](https://github.com/dlrjs2360/github-readme-activity-graph)
 
 <br>
 
@@ -59,8 +59,8 @@
 <a>
   
 <!--[![dlrjs2360's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlrjs2360)](https://github.com/dlrjs2360/github-readme-stats)-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dlrjs2360&theme=white)](https://git.io/streak-stats)
-  <a href="https://opgc.me/#/users/dlrjs2360" target="_blank"><img src="https://api.opgc.me/githubs/users/dlrjs2360/tag/?theme=basic" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dlrjs2360&theme=dark)](https://git.io/streak-stats)
+  <a href="https://opgc.me/#/users/dlrjs2360" target="_blank"><img src="https://api.opgc.me/githubs/users/dlrjs2360/tag/?theme=prism" /></a>
 </a>
   
 </div>
