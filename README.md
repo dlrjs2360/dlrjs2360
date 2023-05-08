@@ -43,7 +43,7 @@
 
 <h1>💻 &nbsp GitHub </h1>
 
-<a href="https://opgc.me/#/users/dlrjs2360" target="_blank"><img src="https://api.opgc.me/githubs/users/dlrjs2360/tag/?theme=prism" /></a>
+<!-- <a href="https://opgc.me/#/users/dlrjs2360" target="_blank"><img src="https://api.opgc.me/githubs/users/dlrjs2360/tag/?theme=prism" /></a> -->
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
