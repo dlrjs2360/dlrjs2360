@@ -53,7 +53,7 @@
 <br>
 
   <!-- github graph -->
-[![dlrjs2360's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlrjs2360&theme=tokyo-night)](https://github.com/dlrjs2360/github-readme-activity-graph)
+ <!--[![dlrjs2360's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dlrjs2360&theme=tokyo-night)](https://github.com/dlrjs2360/github-readme-activity-graph)-->
 
 <br>
 
