@@ -15,11 +15,11 @@
 <h1>📚  &nbsp Skills </h1>
   
 <p align="center">
-  <h3>💡Using for main</h3>
+  <h3>💡Using</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-  <h3>💡Used in past</h3>
+  <h3>💡Used</h3>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
