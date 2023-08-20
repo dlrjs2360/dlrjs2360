@@ -42,7 +42,7 @@
 <a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrjs2360)](https://solved.ac/dlrjs2360)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlrjs2360&theme=dark)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlrjs2360&)
 
   </a>
 
@@ -53,7 +53,7 @@
 
 <!-- <a href="https://opgc.me/#/users/dlrjs2360" target="_blank"><img src="https://api.opgc.me/githubs/users/dlrjs2360/tag/?theme=prism" /></a> -->
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 
