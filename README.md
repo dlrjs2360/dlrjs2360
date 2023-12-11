@@ -1,63 +1,70 @@
-<div align = 'center'>
-
 <!-- capsule render -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1C768F&height=150&section=header&text=🚢%20🛳️%20⛴️&fontSize=90&fontAlign=70) 
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlrjs2360&count_bg=%231594FD&title_bg=%23080037&icon=googleclassroom.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
 
+***
 
+### 🧑🏻‍💻 About Me
+<a href="https://blogeon.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="mailto:lhg3670@naver.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlrjs2360&count_bg=%231594FD&title_bg=%23080037&icon=googleclassroom.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
-<div align = 'center'>
+***
   
+### 📚 My Skills
   
-<h1>📚  &nbsp Skills </h1>
-  
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-black?style=for-the-badge&logo=Java&logoColor=white">
-
-
-  <br>
-  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
-
-  <br>
-  
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+##### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 </p>
 
-<br>
+##### Frameworks & Other Systems 
 
-<h1>📑 &nbsp Algorithm </h1>
-<a>
+<p>
+  <img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white">
+  
+</p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlrjs2360)](https://solved.ac/dlrjs2360)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dlrjs2360&)
+##### Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white">
 
-  </a>
- 
+</p>
 
-<br>
+***
 
-<h1>💻 &nbsp GitHub </h1>
+### 🧩 Problem Solving
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlrjs2360">
 
-<!-- <a href="https://opgc.me/#/users/dlrjs2360" target="_blank"><img src="https://api.opgc.me/githubs/users/dlrjs2360/tag/?theme=prism" /></a> -->
+***
+
+### 🏛️ Projects
+|Period|Title|Description|Place|
+|---|---|---|---|
+|2023.05 ~ 2023.12|[Howbachu](https://github.com/MightyLions)|매일 바뀌는 주제에 관한 토론이 진행되는 플랫폼|명지대학교|
+|2023.08 ~ 2023.09|[Chatfia](https://github.com/Techit-Springles)|채팅으로 진행되는 마피아 게임|멋쟁이사자처럼|
+|2023.05 ~ 2023.07|[Cold Pitch](https://github.com/MightyLions)|초기 스타트업의 아이디어 개선을 위한 리뷰 솔루션|HRD 해커톤 5기|
+|2022.09 ~ 2023.12|[MJ AC](https://github.com/MJU-WC)|등록된 일정을 날씨에 기반해 관리해주는 캘린더|명지대학교 캡스톤디자인2|
+|2022.03 ~ 2023.07|[ECTI](https://github.com/dlrjs2360/Capstone1-ECTI)|지역별 전기 사용량 데이터를 통해 사용자의 전기 사용량 분위를 측정하는 서비스|명지대학교 캡스톤디자인1|
+|2022.03 ~ 2023.06|[Cak_k](https://github.com/CAKK-official)|서울 곳곳에 퍼져있는 주문 제작 케이크 가게 정보를 모아주는 플랫폼|Prography|
+|2022.01 ~ 2022.03|[Cotato Web](https://github.com/Cotato-Web-Project)|동아리 홈페이지 제작|Cotato|
+
+
+<!--
+### 💻 GitHub
+
+ <a href="https://opgc.me/#/users/dlrjs2360" target="_blank"><img src="https://api.opgc.me/githubs/users/dlrjs2360/tag/?theme=prism" /></a> 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
@@ -79,8 +86,4 @@
   
 </a>
   
-</div>
 
-<br>
-
-</div>
