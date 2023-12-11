@@ -52,7 +52,7 @@
 ### 🏛️ Projects
 |Period|Title|Description|Place|
 |---|---|---|---|
-|2023.05 ~ 2023.12|[Howbachu](https://github.com/MightyLions)|매일 바뀌는 주제에 관한 토론이 진행되는 플랫폼|명지대학교|
+|2023.05 ~ 2023.12|[Howbachu](https://github.com/MightyLions)|매일 바뀌는 한 가지 주제로 토론이 진행되는 플랫폼|명지대학교|
 |2023.08 ~ 2023.09|[Chatfia](https://github.com/Techit-Springles)|채팅으로 진행되는 마피아 게임|멋쟁이사자처럼|
 |2023.05 ~ 2023.07|[Cold Pitch](https://github.com/MightyLions)|초기 스타트업의 아이디어 개선을 위한 리뷰 솔루션|HRD 해커톤 5기|
 |2022.09 ~ 2023.12|[MJ AC](https://github.com/MJU-WC)|등록된 일정을 날씨에 기반해 관리해주는 캘린더|명지대학교 캡스톤디자인2|
