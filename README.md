@@ -52,7 +52,7 @@
 ### 🏛️ Projects
 |Period|Title|Description|Place|
 |---|---|---|---|
-|2024.01 ~ 2024.03|[DonWorry](https://github.com/dnd-side-project/dnd-10th-3-backend)|간단한 테스트로 축의금을 결정하고 결혼식 관련 고민을 공유하는 커뮤니티 서비스|DND|
+|2024.01 ~ 2024.03|[DonWorry](https://github.com/dnd-side-project/dnd-10th-3-backend)|간단한 테스트로 축의금, 결혼식 관련 고민을 공유하는 커뮤니티 서비스|DND|
 |2023.05 ~ 2023.12|[Howbachu](https://github.com/HowBaChu/Backend)|매일 바뀌는 한 가지 주제로 토론이 진행되는 플랫폼|명지대학교|
 |2023.08 ~ 2023.09|[Chatfia](https://github.com/Techit-Springles)|채팅으로 진행되는 마피아 게임|멋쟁이사자처럼|
 |2023.05 ~ 2023.07|[Cold Pitch](https://github.com/MightyLions/Cold_Pitch)|초기 스타트업의 아이디어 개선을 위한 리뷰 솔루션|HRD 해커톤 5기|
